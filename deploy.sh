@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-REPOSITORY=/opt/testapp
+REPOSITORY=/opt/myminipro
+
 cd $REPOSITORY
 
 APP_NAME=action_codedeploy
