@@ -6,7 +6,7 @@ on:
 name: Deploy String boot to Amazon EC2
 env:
   S3_BUCKET_NAME: myminipro
-  PROJECT_NAME: action_codedeploy
+  PROJECT_NAME: action.codedeploy
 
 jobs:
   deploy:
