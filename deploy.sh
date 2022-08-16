@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-REPOSITORY=/opt/myminipro
+REPOSITORY=/opt/minipro
 
 cd $REPOSITORY
 
